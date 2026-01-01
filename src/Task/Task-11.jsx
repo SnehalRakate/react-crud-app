@@ -54,7 +54,7 @@ const CrudComplete=()=>{
 
   return(
     <div style={{padding:"20px"}}>
-      <h2>User Management</h2>
+      <h2>CRUD APP</h2>
       <input type="text" 
       value={name}
       placeholder="Username"
